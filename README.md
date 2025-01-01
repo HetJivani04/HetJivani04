@@ -70,10 +70,6 @@ A multiplayer web-based chess game:
 ### ** Freelancing **
 - Built a mordern designed protfolio website for the president of nation wide student led organisation using react, GSAP .
 
-### **Crew Member** *(Present)*  
-*McDonald’s, Halifax, NS*  
-- Excelled in a fast-paced environment, collaborating with cross-functional teams to ensure efficient operations.
-
 ### **Hackathon Projects**  
 - Collaborated in multidisciplinary teams, applying machine learning and data visualization to solve complex problems in agriculture and ocean science.
 
