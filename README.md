@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a passionate Computer Science student with a knack for
 A web-based solution for predicting heart disease risk:
 - Created a prediction model with 85% accuracy using supervised learning algorithms.
 - Developed a user-friendly interface with smooth transitions and map-based hospital locators.
-- Deployed the project using Flask and hosted it on GitHub.
+- Developed the project using Flask and hosted it on GitHub.
 
 ### 🌾 Farmalytics
 A NASA Space Apps 2024 project focused on empowering farmers with actionable insights:
